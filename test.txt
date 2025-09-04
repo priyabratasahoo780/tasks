@@ -2,8 +2,5 @@
 This is a test file.
 It contains some content.
 
-<<<<<<< HEAD
 This line was added on main branch
-=======
 This line was added on feature branch
->>>>>>> feature-branch
